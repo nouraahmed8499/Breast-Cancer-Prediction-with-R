@@ -1,0 +1,3 @@
+"0","Classifier = glm(formula = Class ~ ., "
+"0","                 family = binomial, "
+"0","                 data = training_set)"

@@ -1,0 +1,26 @@
+{
+    "id": "57881289",
+    "path": "R:/Projects/Breast Cancer Prediction with R/breast cancer.csv",
+    "project_path": "breast cancer.csv",
+    "type": "text",
+    "hash": "2402507916",
+    "contents": "",
+    "dirty": false,
+    "created": 1622706723189.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "10,27",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1622070397,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1622070397,
+    "read_only": false,
+    "read_only_alternatives": []
+}
