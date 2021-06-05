@@ -1,5 +1,0 @@
-"0",""
-"0",""
-"0","training_set[,1:9] = scale(training_set[,1:9])"
-"0","test_set[,1:9] = scale(test_set[,1:9])"
-"0",""

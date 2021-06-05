@@ -1,3 +1,0 @@
-"0","data[data == '?'] <- 0"
-"0","data$Bare_nuclei <- as.numeric(data$Bare_nuclei)"
-"0","data$Bare_nuclei[data$Bare_nuclei == 0 ] <- mean(data$Bare_nuclei, na.rm =TRUE)"

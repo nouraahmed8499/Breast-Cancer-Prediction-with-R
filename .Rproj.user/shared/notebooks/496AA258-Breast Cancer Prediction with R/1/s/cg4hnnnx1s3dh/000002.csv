@@ -1,5 +1,0 @@
-"0",""
-"0",""
-"0","names(data) <- c('Id','Cl_thickness','Cell_size','Cell_shape','Marg_adhesion','Epith_c_size','Bare_nuclei','Bl_cromat','Normal_nucleoli','Mitoses','Class')"
-"0","data$Class[data$Class == 2] = 0"
-"0","data$Class[data$Class == 4] = 1"
